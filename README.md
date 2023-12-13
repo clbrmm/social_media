@@ -9,6 +9,7 @@ This repository houses a project focused on social media strategy, providing too
 
 The project is organized into the following directory structure:
 
+```
 
 /social-media
 ├── README.md
@@ -37,6 +38,7 @@ The project is organized into the following directory structure:
 │ ├── test_metrics_analysis.py
 ├── /static
 │ └── /images
+```
 
 
 
